@@ -57,6 +57,6 @@ Send us an email at jobs@avumi.com with :
 * A cover letter (optional)
 
 ## Available jobs
-* [Senior Full-stack developer](Senior-Dev-full-stack.md)
-* [Back-end developer](Dev-bacck-end.md)
-* [Data-scientist](Data-Scientist.md)
+* [Senior Full-stack developer](senior-dev-full-stack.md)
+* [Back-end developer](dev-back-end.md)
+* [Data-scientist](data-scientist.md)
