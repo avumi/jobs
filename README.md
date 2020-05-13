@@ -49,7 +49,12 @@ It doesn't matter where you work, whether you're remote or in our offices. It's 
 
 ## How to join us
 
-Send us an email at jobs@avumi.com with : 
+Send us an email at jobs@avumi.com with :
 * Your CV
 * A preview/sample of your work, like a git repo
 * A cover letter (optional)
+
+## Available jobs
+* [Senior Full-stack developer](Senior-Dev-full-stack.md)
+* [Back-end developer](Dev-bacck-end.md)
+* [Data-scientist](Data-Scientist.md)
