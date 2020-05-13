@@ -39,9 +39,9 @@ Here's how we work :
 
 * Front-end :desktop_computer: : VueJS, HTML5/CSS3, JS, etc.
 
-* Back-end : Python, AWS EC2, lambda, API Gateway, RDS, Cloudformation, SNS/SES, etc.
+* Back-end :back: :end: : Python, AWS EC2, lambda, API Gateway, RDS, Cloudformation, SNS/SES, etc.
 
-* Devops : Docker, AWS, Github, Jira
+* Devops :hammer_and_wrench: : Docker, AWS, Github, Jira
 
 ## Where you'll work
 
