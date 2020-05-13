@@ -10,7 +10,7 @@ Avumi is developing a **high impact tech product** for the **eCommerce fashion**
 * Does it fit me? (the “fit hurdle”)
 * Does it look good on me? (the “style hurdle”)
 
-For more information, check out our website @ https://www.avumi.com/
+For more information, check out our [website](https://www.avumi.com/)
 
 ## Our culture
 
@@ -46,3 +46,10 @@ Here's how we work :
 ## Where you'll work
 
 It doesn't matter where you work, whether you're remote or in our offices. It's all about getting the job done, staying in touch and being part of an adventure.
+
+## How to join us
+
+Send us an email at jobs@avumi.com with : 
+* Your CV
+* A preview/sample of your work, like a git repo
+* A cover letter (optional)
