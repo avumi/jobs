@@ -2,7 +2,7 @@
 
 **Contract type:** Freelance, Full-time
 
-**Location:** Paris, London
+**Location:** Paris, London, Bristol
 
 ***
 
