@@ -1,4 +1,4 @@
-# ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Full-stack developer
+# ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Data Scientist
 
 **Contract type:** Freelance, Full-time
 
