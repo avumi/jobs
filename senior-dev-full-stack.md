@@ -24,7 +24,7 @@ You will also be coordinating with your team to ensure regular releases.
 
 ## Requirements
 
-* You've got 5+ years experience as a Back-end developer
+* You've got 5+ years experience as a Full-stack developer
 * You have experience using the AWS infrastructure
 * You have experience building web apps and mobile apps
 * You've got an entrepreneurial spirit
