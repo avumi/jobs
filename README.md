@@ -47,7 +47,7 @@ Here's how we work :
 
 ## Where you'll work
 
-It doesn't matter where you work, whether you're remote or in our offices. It's all about getting the job done, staying in touch and being part of an exciting project.
+It doesn't matter where you work. It's all about getting the job done, staying in touch and being part of an exciting project.
 
 To keep everyone safe, remote work will be the rule during COVID-19 with periodical face-to-face meetings.
 
