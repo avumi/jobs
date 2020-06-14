@@ -16,9 +16,10 @@ For more information, check out our [website](https://www.avumi.com/)
 
 If you're looking to join a startup looking to conquer the digital world, you've come to the right place !
 
-At Avumi, everything is possible and there are no bad ideas. We're in that point in time where we're still building things and every new person can have a direct input on our product. If you decide to join us, you'll not only be working for Avumi, *you* will be Avumi. You'll not only help us build the Avumi Platform, but also be part of building our ethos as a tech company.
+At Avumi, everything is possible and there are no bad ideas. We're in that point in time where we're still building things and every new person can have a direct input on our product. If you decide to join us, you'll not only help us build the Avumi Platform, but also be part of building our culture as a tech company.
 
-We currently speak :fr: :uk: :es:.
+
+We currently speak :fr: :uk: (fluently).
 
 Here's how we work :
 
@@ -35,6 +36,7 @@ Here's how we work :
 * Value-oriented : if it doesn't serve our clients or productivity, add it to the back-log.
 
 
+
 ## The stack
 
 * Front-end :desktop_computer: : VueJS, HTML5/CSS3, JS, etc.
@@ -45,9 +47,10 @@ Here's how we work :
 
 ## Where you'll work
 
-It doesn't matter where you work, whether you're remote or in our offices. It's all about getting the job done, staying in touch and being part of an adventure.
+It doesn't matter where you work, whether you're remote or in our offices. It's all about getting the job done, staying in touch and being part of an exciting project.
 
-To keep everyone safe, remote work is mandatory during COVID-19.
+To keep everyone safe, remote work will be the rule during COVID-19 with periodical face-to-face meetings.
+
 
 ## How to join us
 
@@ -55,6 +58,11 @@ Send us an email at jobs@avumi.com with :
 * Your CV
 * A preview/sample of your work, like a git repo
 * A cover letter (optional)
+
+Once we’ve screened your application, you’ll be invited to :
+* An interview over the phone; and;
+* An interview in person/video call
+
 
 ## Available jobs
 * [Senior Full-stack developer](senior-dev-full-stack.md)
