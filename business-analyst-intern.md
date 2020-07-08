@@ -19,12 +19,12 @@ Working together directly with the CEO, you will :
 
 ## Requirements
 
-• You’ve got (or are completing) a Bachelor’s Degree or equivalent in Economics or Finance (or similar) from a Top-Tier Business School or University
-• You have strong analytical skills
-• You’re proficient in the Office Pack
-• You are a fluent English and French speaker
-• You've got an entrepreneurial spirit
-• You're an independent thinker
+* You’ve got (or are completing) a Bachelor’s Degree or equivalent in Economics or Finance (or similar) from a Top-Tier Business School or University
+* You have strong analytical skills
+* You’re proficient in the Office Pack
+* You are a fluent English and French speaker
+* You've got an entrepreneurial spirit
+* You're an independent thinker
 
 ## Nice to have
 
