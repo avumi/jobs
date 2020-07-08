@@ -1,4 +1,8 @@
-# ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Senior Full-stack developer
+layout: page
+title: "Senior Full-Stack Developer"
+permalink: /senior-full-stack-developer/
+
+# ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Senior Full-Stack Developer
 
 **Contract type:** Freelance, Full-time
 
