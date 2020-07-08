@@ -1,3 +1,7 @@
+layout: page
+title: "Back-end Developer role"
+permalink: /backend-developer/
+
 # ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Back-end developer
 
 **Contract type:** Freelance, Full-time
