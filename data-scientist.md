@@ -1,7 +1,3 @@
-layout: page
-title: "Data Scientist Position"
-permalink: /data-scientist/
-
 # ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Data Scientist
 
 **Contract type:** Freelance, Full-time
