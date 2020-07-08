@@ -2,6 +2,7 @@ title: Avumi Careers
 description: View available jobs at Avumi
 plugins:
   - jekyll-relative-links
+  - jemoji
 show_downloads: false
 relative_links:
   enabled: true
