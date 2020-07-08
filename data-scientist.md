@@ -29,7 +29,7 @@ You will also be coordinating with your team to ensure regular releases.
 
 ## Team
 
-You'll be joining a small team, under the supervision of the [CEO](https://fr.linkedin.com/in/jamesgwalters).
+You'll be joining a small team, under the supervision of the CEO.
 
 ## Recruitment Process
 
