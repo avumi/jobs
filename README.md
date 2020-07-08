@@ -1,4 +1,4 @@
-# ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Careers :technologist:
+# ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Careers
 
 ##### **Welcome to Avumi's Careers Page !**
 
