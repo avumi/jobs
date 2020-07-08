@@ -68,3 +68,4 @@ Once we’ve screened your application, you’ll be invited to :
 * [Senior Full-stack developer](./senior-dev-full-stack.md)
 * [Back-end developer](./dev-back-end.md)
 * [Data-scientist](./data-scientist.md)
+* [Business Analyst (Intern)](./business-analyst-intern.md)
