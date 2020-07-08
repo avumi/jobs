@@ -1,0 +1,12 @@
+title: Avumi Careers
+description: View available jobs at Avumi
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - data-scientist.md
+  - dev-back-end.md
+  - senior-dev-full-stack.md
