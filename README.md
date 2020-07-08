@@ -1,5 +1,10 @@
 # ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Careers :technologist:
 
+<div class="buttons">
+  <a href="https://github.com/avumi/jobs/" target="_blank"><span>GitHub</span></a>
+</div>
+
+
 ##### **Welcome to Avumi's Careers Page !**
 
 ***
