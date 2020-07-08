@@ -11,3 +11,5 @@ include:
   - data-scientist.md
   - dev-back-end.md
   - senior-dev-full-stack.md
+
+theme: jekyll-theme-cayman
