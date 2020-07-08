@@ -28,7 +28,7 @@ OpenAI standards, RESTful APIs and serverless back-ends have no secrets for you.
 
 ## Team
 
-You'll be joining a small team, under the supervision of the [CEO](https://fr.linkedin.com/in/jamesgwalters).
+You'll be joining a small team, under the supervision of the CEO.
 
 ## Recruitment Process
 
