@@ -39,11 +39,11 @@ Here's how we work :
 
 ## The stack
 
-* Front-end :desktop_computer: : VueJS, HTML5/CSS3, JS, etc.
+* Front-end :desktop_computer: : VueJS, React Native, HTML5/CSS3, JS
 
-* Back-end :back: :end: : Python, AWS EC2, lambda, API Gateway, RDS, Cloudformation, SNS/SES, etc.
+* Back-end :back: :end: : Python, OpenAPI, AWS, PyTorch/TensorFlow
 
-* Devops :hammer_and_wrench: : Docker, AWS, Github, Jira
+* Devops :hammer_and_wrench: : Docker, AWS, Git, CodePipeline
 
 ## Where you'll work
 
@@ -66,5 +66,4 @@ Once we’ve screened your application, you’ll be invited to :
 
 ## Available jobs
 * [Senior Full-stack developer](./senior-dev-full-stack.md)
-* [Back-end developer](./dev-back-end.md)
 * [Data-scientist](./data-scientist.md)

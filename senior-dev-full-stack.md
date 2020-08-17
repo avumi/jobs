@@ -1,6 +1,6 @@
 # ![Avumi logo](https://www.avumi.com/img/avumi-logo.png) | Senior Full-Stack Developer
 
-**Contract type:** Freelance, Full-time
+**Contract type:** Full-time
 
 **Location:** Paris, London, Bristol
 
@@ -11,11 +11,12 @@
 You'll be responsible for building and maintaining our platform environment :
 
 * Retail/Brand Dashboard
-* Avumi User Android mobile App
-* Avumi User iOS mobile App
+* Avumi User Cross-Platform mobile App
+* API 
 
 You'll have a particular focus on :
 
+* Product Architecture
 * Integrated social features
 * Integrated billing features
 * User management & analytics
@@ -25,11 +26,12 @@ You will also be coordinating with your team to ensure regular releases.
 ## Requirements
 
 * You've got 5+ years experience as a Full-stack developer
-* You have experience using the AWS infrastructure
+* You have experience using AWS
 * You have experience building web apps and mobile apps
 * You've got an entrepreneurial spirit
 * You see tech as a solution and are passionate about software development
 * You're an independent thinker
+* You've got a Masters Degree
 
 ## Team
 
