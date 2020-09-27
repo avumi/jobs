@@ -66,4 +66,3 @@ Once we’ve screened your application, you’ll be invited to :
 
 ## Available jobs
 * [Senior Full-stack developer](./senior-dev-full-stack.md)
-* [Data-scientist](./data-scientist.md)
