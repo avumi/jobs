@@ -53,8 +53,6 @@ To keep everyone safe, remote work will be the rule during COVID-19 with periodi
 
 ## How to join us
 
-Send us an email at jobs@avumi.com with:
-
 Send us an email at jobs@avumi.com with :
 * Your CV
 *  A link to a website or Git repository where you host similar projects you had worked on before.
