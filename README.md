@@ -36,20 +36,14 @@ Here's how we work :
 * Value-oriented : if it doesn't serve our clients or productivity, add it to the back-log.
 
 
-
 ## The stack
 
-* Front-end :desktop_computer: : VueJS, React Native, HTML5/CSS3, JS
+* Front-end :desktop_computer: : VueJS, React Native, HTML5/CSS3, JavaScript
 
-* Back-end :back: :end: : Python, OpenAPI, AWS, PyTorch/TensorFlow
+* Back-end :back: :end: : Python, Javascript, OpenAPI, AWS, PyTorch/TensorFlow
 
 * Devops :hammer_and_wrench: : Docker, AWS, Git, CodePipeline
 
-## Where you'll work
-
-It doesn't matter where you work. It's all about getting the job done, staying in touch and being part of an exciting project.
-
-To keep everyone safe, remote work will be the rule during COVID-19 with periodical face-to-face meetings.
 
 
 ## How to join us
@@ -59,10 +53,7 @@ Send us an email at jobs@avumi.com with :
 * A preview/sample of your work, like a git repo
 * A cover letter (optional)
 
-Once we’ve screened your application, you’ll be invited to :
-* An interview over the phone; and;
-* An interview in person/video call
 
-
-## Available jobs
-* [Senior Full-stack developer](./senior-dev-full-stack.md)
+## Available positions
+* [Full-stack Developer Intern](./full-stack-intern.md)
+* [Machine Learning Engineer Intern](./ml-intern.md)
