@@ -55,5 +55,3 @@ Send us an email at jobs@avumi.com with :
 
 
 ## Available positions
-
-* [Full-stack Developer Intern](./full-stack-intern.md)
